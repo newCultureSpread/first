@@ -4,5 +4,4 @@ class user{
 	private String address;
 	private String iphone;
 	private String sshh;
-	private Strng ss;
 }
