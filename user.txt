@@ -3,5 +3,8 @@ class user{
 	private String password;
 	private String address;
 	private String iphone;
+<<<<<<< HEAD
 	private String sshh;
+=======
+>>>>>>> dev
 }
